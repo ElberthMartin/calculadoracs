@@ -7,3 +7,14 @@ C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\Gener
 C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\calculadora.exe
 C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\obj\x86\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\obj\x86\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\obj\x86\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\obj\x86\Debug\calculadora.pdb

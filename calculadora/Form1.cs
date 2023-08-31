@@ -126,18 +126,7 @@ namespace WindowsFormsApplication1
                     break;
             }
         }
-        // sqrt
-        private void button17_Click(object sender, EventArgs e)
-        {
-            double  sqrt=Math.Sqrt(float.Parse(textBox1.Text));
-            textBox1.Text = sqrt.ToString();
-        }
-        // C
-        private void button15_Click(object sender, EventArgs e)
-        {
-            textBox1.Clear();
-            count = 0; 
-        }
+      
         // .
         private void button18_Click(object sender, EventArgs e)
         {
@@ -149,11 +138,8 @@ namespace WindowsFormsApplication1
             if (flag==0)
             {textBox1.Text= textBox1.Text + ".";}
         }
-        // 1/x
-        private void button20_Click(object sender, EventArgs e)
-        {
-            textBox1.Text = (1/float.Parse(textBox1.Text)).ToString();
-        }
+       
+       
         // <---
         private void button19_Click(object sender, EventArgs e)
         {
@@ -163,26 +149,13 @@ namespace WindowsFormsApplication1
             for (int i = 0; i < lenght; i++)
                 textBox1.Text = textBox1.Text + text[i]; 
         }
-        // + -
-        int check = 1;
-        private void button21_Click(object sender, EventArgs e)
+  
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            if (textBox1.TextLength > 0)
-            {
-                string text = textBox1.Text;
-                if (check == 1)
-                {
-                    textBox1.Text = "-" + textBox1.Text;
-                    check = 2;
-                }
-                else if (check == 2)
-                {
-                    int lenght = textBox1.TextLength; textBox1.Clear();
-                    for (int i = 1; i < lenght; i++) { textBox1.Text = textBox1.Text + text[i]; }
-                    check = 1;
-                }
-            }
+
         }
+
         // CE
         private void button22_Click(object sender, EventArgs e)
         {
