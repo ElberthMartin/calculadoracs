@@ -12,12 +12,12 @@ namespace calculadora
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            textBox1.Text = textBox1.Text + 1;
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-
+            textBox1.Text = textBox1.Text + 6;
         }
 
         private void btncero_Click(object sender, EventArgs e)
@@ -37,7 +37,7 @@ namespace calculadora
 
         private void btn3_Click(object sender, EventArgs e)
         {
-
+            textBox1.Text = textBox1.Text + 3;
         }
 
         private void btn2_Click(object sender, EventArgs e)
