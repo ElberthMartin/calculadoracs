@@ -144,8 +144,9 @@ namespace WindowsFormsApplication1
         private void button19_Click(object sender, EventArgs e)
         {
             int lenght = textBox1.TextLength-1;
-            string text = textBox1.Text;  // MessageBox.Show(lenght.ToString());
+            string text = textBox1.Text;  
             textBox1.Clear();
+
             for (int i = 0; i < lenght; i++)
                 textBox1.Text = textBox1.Text + text[i]; 
         }

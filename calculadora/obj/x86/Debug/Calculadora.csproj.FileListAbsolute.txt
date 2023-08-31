@@ -18,3 +18,5 @@ C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\obj\x86\Debug\Calculador
 C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\obj\x86\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\obj\x86\Debug\calculadora.exe
 C:\Users\Alumno\Downloads\calcu\calculadora\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Users\Alumno\Desktop\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\Alumno\Desktop\calculadora\calculadora\obj\x86\Debug\calculadora.pdb
