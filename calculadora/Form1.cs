@@ -1,4 +1,5 @@
-using System.Linq;
+using System;
+using System.Windows.Forms;
 
 namespace calculadora
 {
@@ -21,7 +22,7 @@ namespace calculadora
 
         private void btncero_Click(object sender, EventArgs e)
         {
-            textBoxResultado.Text += "0";
+            textBox1.Text = textBox1.Text + 0;
         }
 
         private void btnpunto_Click(object sender, EventArgs e)
